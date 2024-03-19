@@ -6,6 +6,6 @@
 ![](assets/Network_Architecture.png)
 
 
-![](assets/Attention_Detials.png)
+![](assets/Attention_Details.png)
 
 ### Next， we will update more detail about our work!
