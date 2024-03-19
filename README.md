@@ -3,8 +3,8 @@
 
 
 
-![](/assets/Network Architecture.png)
+![](assets/Network Architecture.png)
 
-![](/assets/Attention Detials.png)
+![](assets/Attention Detials.png)
 
 ### Next， we will update more detail about our work!
