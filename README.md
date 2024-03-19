@@ -3,8 +3,8 @@
 
 
 
-![](../assets/Fig4.png)
+![](assets/Fig4.png)
 
-![](../assets/fig5.png)
+![](/assets/fig5.png)
 
 ### Next， we will update more detail about our work!
