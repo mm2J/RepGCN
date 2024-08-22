@@ -2,8 +2,7 @@
 **An Optimized Lightweight Graph Convolutional Network for Skeleton-Based Gait Recognition Considering Walking with an Accompanying Activity.** 
 
 
-
-![](assets/Network_ Architecture.png)
+![](assets/Network_Architecture.png)
 
 
 ![](assets/Attention_Details.png)
