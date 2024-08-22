@@ -3,7 +3,7 @@
 
 
 
-![](assets/Network_Architecture.png)
+![](assets/Network_ Architecture.png)
 
 
 ![](assets/Attention_Details.png)
